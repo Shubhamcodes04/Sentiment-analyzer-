@@ -1,4 +1,11 @@
 # 🎭 Sentiment Dashboard
+
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://dnwbrf3whnly6ffsqocv8k.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)](https://streamlit.io)
+
+
 ### Dual-model NLP sentiment analyzer — VADER + TextBlob
 
 > Paste any text. Get instant sentiment analysis with rich visualizations.
@@ -59,7 +66,7 @@ sentiment-dashboard/
 
 ## 👨‍💻 Author
 
-**Your Name** — B.Tech CSE @ JUET
+**Shubham ** — B.Tech CSE @ JUET
 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
 
 ---
