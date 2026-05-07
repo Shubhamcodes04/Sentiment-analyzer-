@@ -3,6 +3,8 @@ nltk.download('punkt', quiet=True)
 nltk.download('averaged_perceptron_tagger', quiet=True)
 import streamlit as st
 import plotly.graph_objects as go
+import streamlit as st
+import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
 from analyzer import analyze_text
